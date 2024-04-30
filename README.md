@@ -1,5 +1,5 @@
 ### Yuri Alves 么
-<img src = "576.gif" width = "600px" align = "right">
+<img src = "menino.gif" width = "600px" align = "right">
 
 ## Sejam Bem Vindos ao meu GitHub ツ
 
