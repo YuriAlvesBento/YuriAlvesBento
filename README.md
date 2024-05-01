@@ -1,19 +1,20 @@
-### Yuri Alves 么
+### 𝙔𝙪𝙧𝙞 𝘼𝙡𝙫𝙚𝙨 么
+
 <img src = "giphy (1).gif" width = "325px" align = "right">
 
-## Sejam Bem Vindos ao meu GitHub ツ
+## 𝙎𝙚𝙟𝙖𝙢 𝘽𝙚𝙢 𝙑𝙞𝙣𝙙𝙤𝙨 𝙖𝙤 𝙢𝙚𝙪 𝙂𝙞𝙩𝙃𝙪𝙗 ツ
 
 <div>
     <img src = "https://icon.icepanel.io/Technology/svg/PHP.svg" width = "35">
-    <img src = "https://icon.icepanel.io/Technology/svg/C.svg" width = "35">
-    <img src = "https://icon.icepanel.io/Technology/svg/Java.svg" width = "35">
     <img src = "https://icon.icepanel.io/Technology/svg/Python.svg" width = "35">
    <img src = "https://icon.icepanel.io/Technology/svg/HTML5.svg" width = "35">
    <img src = "https://icon.icepanel.io/Technology/svg/Adobe-Photoshop.svg" width = "35">
 </div>
 
-ℹ️ Especializado em invasão de sistemas e análise de vulnerabilidades
+ℹ️ <strong>𝙀𝙎𝙏𝙐𝘿𝘼𝙉𝙏𝙀 𝘿𝙀 𝘼𝙉𝘼𝙇𝙄𝙎𝙀 𝙀 𝘿𝙀𝙎𝙀𝙉𝙑𝙊𝙇𝙑𝙄𝙈𝙀𝙉𝙏𝙊 𝘿𝙀 𝙎𝙄𝙎𝙏𝙀𝙈𝘼𝙎.<strong>
 
-ℹ️ Especializado em desenvolver estratégias de defesa robustas e implementar soluções inovadoras para proteger dados sensíveis e sistemas crítico.
+ℹ️ <strong>𝙁𝙐𝙏𝙐𝙍𝙊 𝘾𝙔𝘽𝙀𝙍 𝙎𝙀𝘾𝙐𝙍𝙄𝙏𝙔<strong>
 
-ℹ️ Comprometido em garantir um ambiente digital seguro para organizações e indivíduos, enfrentando os desafios em constante evolução da cibersegurança.
+ℹ️ <strong>𝙋𝙍𝙄𝙉𝘾𝙄𝙋𝘼𝙄𝙎 𝙇𝙄𝙉𝙂𝙐𝘼𝙂𝙀𝙉𝙎 𝘿𝙀 𝙀𝙎𝙏𝙐𝘿𝙊: 𝙋𝙔𝙏𝙃𝙊𝙉 𝙀 𝙋𝙃𝙋.<strong>
+
+ℹ️ <strong>𝙀𝙈 𝙐𝙈 𝙈𝙐𝙉𝘿𝙊 𝘿𝙄𝙂𝙄𝙏𝘼𝙇𝙄𝙕𝘼𝘿𝙊, 𝘼 𝙋𝙍𝙄𝙑𝘼𝘾𝙄𝘿𝘼𝘿𝙀 𝙀 𝙐𝙈𝘼 𝙈𝙊𝙀𝘿𝘼 𝙑𝘼𝙇𝙄𝙊𝙎𝘼 𝙀 𝘼 𝙎𝙀𝙂𝙐𝙍𝘼𝙉Ç𝘼 𝘾𝙄𝘽𝙀𝙍𝙉𝙀𝙏𝙄𝘾𝘼 𝙀 𝙊 𝘾𝙊𝙁𝙍𝙀.<strong>
