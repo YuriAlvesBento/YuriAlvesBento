@@ -8,6 +8,7 @@
     <img src = "https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" width = "30">
 </div>
 
-<strong>Programador | Especialista em Cibersegurança | Automação<strong>
+<strong>
+Programador | Especialista em Cibersegurança | Automação<strong>
 
 <strong>Python | Kotlin | Docker | Redes | n8n<strong>
