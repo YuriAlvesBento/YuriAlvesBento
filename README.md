@@ -1,14 +1,30 @@
-### 𝙔𝙪𝙧𝙞 𝘼𝙡𝙫𝙚𝙨 么
+<img src="URL_DA_SUA_FOTO" width="150" style="border-radius:50%">  
 
-## 𝙎𝙚𝙟𝙖𝙢 𝘽𝙚𝙢 𝙑𝙞𝙣𝙙𝙤𝙨 𝙖𝙤 𝙢𝙚𝙪 𝙂𝙞𝙩𝙃𝙪𝙗 ツ
+# Yuri Alves Bento  
 
-<div>
-    <img src = "https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width = "30">
-    <img src = "https://icon.icepanel.io/Technology/svg/Python.svg" width = "30">
-    <img src = "https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" width = "30">
-</div>
+Olá! Sou estudante de Análise e Desenvolvimento de Sistemas, focado em **Python**, **cibersegurança**, **pentesting** e **redes de computadores**.  
 
-<strong>
-Programador | Especialista em Cibersegurança | Automação<strong>
+---
 
-<strong>Python | Kotlin | Docker | Redes | n8n<strong>
+## Tecnologias e Ferramentas
+
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+- ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+- ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=machinelearning&logoColor=white)
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+- ![Wireshark](https://img.shields.io/badge/Wireshark-1A1A1A?style=for-the-badge&logo=wireshark&logoColor=blue)
+
+---
+
+## Contatos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-alves-bento-38bb35223)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yur.alves59@gmail.com)
