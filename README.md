@@ -5,7 +5,7 @@
 <div>
     <img src = "https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width = "30">
     <img src = "https://icon.icepanel.io/Technology/svg/Python.svg" width = "30">
-    <img src = "https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg width = "30">
+    <img src = "https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" width = "30">
 </div>
 
 <strong>Programador | Especialista em Cibersegurança | Automação<strong>
